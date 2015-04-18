@@ -5,7 +5,9 @@ Many a times I had to compare data across environments during product releases. 
 Limitations I noticed in existing tools.
  * No support for CLOB columns
  * No support for BLOB columns
- * No support for simple copy this change over 
+ * No support for simple way copy this change over
+ * Ability to easily define what is the key to comparison (ROWID, primary key or combination of different keys)
+ * Show differences in an overlay matrix kind of way (mmm... a picture would be useful here) 
 
 ## What tech?
 
