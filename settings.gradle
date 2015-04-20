@@ -1,0 +1,5 @@
+rootProject.name = 'table-merge'
+
+include 'core'
+include 'app'
+
